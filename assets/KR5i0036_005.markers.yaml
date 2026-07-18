@@ -927,6 +927,7 @@ markers:
       ', id: KR5i0036_krp_005-bkkkrnewl131}
   - {type: line-break, offset: 3788, content: '', id: CK-KZ_KR5i0036_05p006b08}
   - {type: punctuation, offset: 3790, content: (, id: KR5i0036_krp_005-bkkpn191}
+  - {type: 'voice:problem', offset: 3790, length: 1705, id: KR5i0036_bkk_005-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 3790, got ''('' at offset 5495'}
   - {type: substitution, offset: 3795, original: 兎, replacement: 兔, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16753}}
   - {type: 'kr:non-cjk', offset: 3796, content: ⬤, id: KR5i0036_krp_005-bkkkrnonc2}
   - {type: substitution, offset: 3799, original: 兎, replacement: 兔, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16753}}
@@ -10875,4 +10876,4 @@ markers:
 
       ', id: KR5i0036_krp_005-bkkkrnewl1711}
   back: []
-hash: sha256:8e121ba221ac5f6fd61e80c1941ec272b53809bf28f7ff7cf7cb79154b632138
+hash: sha256:9d2a79bcfaf904815dbd66abf4d692b6e5f1b306578eaed011230a7a2d1131a7
